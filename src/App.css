@@ -26,3 +26,11 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+body {
+  justify-content: center;
+}
+#play-area, .mx-auto {
+  width: auto;
+  justify-content: center;
+}
